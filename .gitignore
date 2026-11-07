@@ -112,3 +112,11 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Project-local generated/recovery files
+/[Aa]ssets/[Bb]uilds.meta
+/[Aa]ssets/[Xx][Rr]/Temp/
+/[Aa]ssets/[Xx][Rr]/Temp.meta
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
+/ProjectSettings/Packages/com.unity.testtools.codecoverage/
