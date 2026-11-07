@@ -1,1 +1,5 @@
-at a stage where its starting to become more and more circuit quest and less and less charizard demo app!
+# CircuitQuest a Electronics learning app
+This here is the demo of the AR features of CircuitQuest,
+although still a prototype we feel this has a lot of room to grow.
+
+ 
